@@ -39,9 +39,9 @@ Based on the examined data, the recommendations would be to target California an
 |test_takers_ 2017|int|SAT Majors Scores|This value shows the number of students taking the SAT test in 2017.| 
 |test_takers_ 2018|int|SAT Majors Scores|This value shows the number of students taking the SAT test in 2018.|
 |test_takers_ 2019|int|SAT Majors Scores|This value shows the number of students taking the SAT test in 2019.|
-|percent_2017|float|SAT Majors Scores|This value is the percent of the students choosing that particular intendedmajor over the total student population in 2017.| 
-|percent_2018|float|SAT Majors Scores|This value is the percent of the students choosing that particular intendedmajor over the total student population in 2018.| 
-|percent_2019|float|SAT Majors Scores|This value is the percent of the students choosing that particular intendedmajor over the total student population in 2019.| 
+|percent_2017|float|SAT Majors Scores|This value is the percent of the students choosing that particular intended major over the total student population in 2017.| 
+|percent_2018|float|SAT Majors Scores|This value is the percent of the students choosing that particular intended major over the total student population in 2018.| 
+|percent_2019|float|SAT Majors Scores|This value is the percent of the students choosing that particular intended major over the total student population in 2019.| 
 |total_2017|int|SAT Majors Scores|This value is the total score of the SAT for that particular major in 2017.| 
 |total_2018|int|SAT Majors Scores|This value is the total score of the SAT for that particular major in 2018.| 
 |total_2019|int|SAT Majors Scores|This value is the total score of the SAT for that particular major in 2019.| 
